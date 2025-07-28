@@ -23,9 +23,9 @@ repository               : "drmegannewsome.github.io/project"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Meep mop"
+  name             : "Megan Newsomme"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Postdoc at UT Austin"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
